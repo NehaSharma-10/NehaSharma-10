@@ -24,7 +24,7 @@ Based in Jaipur, India 🇮🇳, I work as a freelancer building everything from
 
 - Engineered a full-featured anonymous social media platform from scratch
 - Built a cross-platform beauty booking app with React Native
-- Developed a full-stack platform with a custom CMS and admin panel
+- Developed a full-stack CRM system for property management with enterprise-grade security
 - Focused on responsive design, scalable components, and smooth UX
 - B.Tech in Computer Science — Poornima College of Engineering (CGPA: 8.6/10)
 
@@ -56,7 +56,7 @@ Based in Jaipur, India 🇮🇳, I work as a freelancer building everything from
 - **Unsaid** — Anonymous social media platform built with Next.js, Tailwind CSS & Appwrite. Features auth, post feeds, and interactions with a calm, art-inspired UI.
 - **AvailableHour** — Beauty service booking app (React Native + Appwrite) with service listings, booking management, and notifications.
 - **Home Eco Earner** — Full-stack platform (Next.js + MongoDB) with a custom CMS and admin panel for managing services and content.
-- **JRF Adda** — Multi-page online education platform (Next.js) built for structured learning with optimized performance and consistent UI.
+- **ResidenceHub CRM** — Production-ready property management CRM built with Next.js 15, TypeScript & Appwrite. Handles service tickets, resident management, utility tracking, maintenance scheduling, and role-based access control for residential complexes and property managers.
 
 ---
 
