@@ -73,7 +73,7 @@ Based in Jaipur, India 🇮🇳, I work as a freelancer building everything from
 [![GitHub](https://img.shields.io/badge/-NehaSharma--10-181717?style=flat&logo=github&logoColor=white)](https://github.com/NehaSharma-10)
 [![LinkedIn](https://img.shields.io/badge/-nehasharma8529-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/nehasharma8529)
 [![Portfolio](https://img.shields.io/badge/-nehasharma--portfolio.vercel.app-000000?style=flat&logo=vercel&logoColor=white)](https://nehasharma-portfolio.vercel.app)
-[![Email](https://img.shields.io/badge/-shrmatwinkle246@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:shrmatwinkle246@gmail.com)
+
 
 ---
 
