@@ -58,7 +58,7 @@ Based in Jaipur, India 🇮🇳, I work as a freelancer building full-stack web 
 - **[ResidenceHub CRM](https://residencehub-crm.vercel.app/)** *(private repo)* — Production-ready property management CRM built with Next.js 15, TypeScript & Appwrite. Handles service tickets, resident management, utility tracking, maintenance scheduling, and role-based access control.
 - **Unsaid** — Anonymous social media platform built with Next.js, Tailwind CSS & Appwrite. Features auth, post feeds, and interactions with a calm, art-inspired UI.
 - **AvailableHour** — Beauty service booking app (React Native + Appwrite) with service listings, booking management, and notifications.
-- **Home Eco Earner** — Full-stack platform (Next.js + MongoDB) with a custom CMS and admin panel for managing services and content.
+- **[Home Eco Earner](https://homeecoearner.com/)** — Full-stack platform (Next.js + MongoDB) with a custom CMS and admin panel for managing services and content.
 
 ---
 
